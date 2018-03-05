@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mHarryPotterTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mHarryPotter[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return error message when no ingredients are given[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return Polyjuice potion when given 'Aconite' and 'Adder's Fork'[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return Draught potion when given 'Niffler's Fancy' and 'Nightshade'[0m[0m
