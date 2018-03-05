@@ -1778,9 +1778,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.17!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 356ms :: artifacts dl 8ms
+[debug] :: resolution report :: resolve 501ms :: artifacts dl 19ms
 [debug] 	report for default#groupharry$sbt_2.10;1.0 default produced in /home/digital032676/Harry/GroupHarry/target/scala-2.12/resolution-cache/reports/default-groupharry$sbt_2.10-default.xml
-[debug] 	resolve done (356ms resolve - 8ms download)
+[debug] 	resolve done (501ms resolve - 19ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#groupharry$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2458,6 +2458,6 @@
 [debug] 	[NOT REQUIRED] com.jcraft#jsch;0.1.50!jsch.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.13.17!compiler-interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#persist;0.13.17!persist.jar(src)
-[debug] :: resolution report :: resolve 87ms :: artifacts dl 36ms
+[debug] :: resolution report :: resolve 161ms :: artifacts dl 15ms
 [debug] 	report for default#groupharry$sources_2.10;1.0 default produced in /home/digital032676/Harry/GroupHarry/target/scala-2.12/resolution-cache/reports/default-groupharry$sources_2.10-default.xml
-[debug] 	resolve done (87ms resolve - 36ms download)
+[debug] 	resolve done (161ms resolve - 15ms download)
