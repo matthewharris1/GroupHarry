@@ -12,17 +12,17 @@ class HarryPotterTest extends WordSpec with MustMatchers {
 
     "return error message when no ingredients are given" in {
 
-      HarryPotter.potion("") mustEqual None
+      Cauldron.brew(Ingredient("Aconite")) mustEqual None
     }
 
     "return Polyjuice potion when given 'Aconite' and 'Adder's Fork'" in {
 
-      HarryPotter.potion("Aconite, Adder's Fork") mustEqual Some(new PolyJuicePotion)
+      Cauldron.brew(Ingredient("Aconite"), Ingredient("Adder's Fork")) mustEqual Some(new PolyJuicePotion)
     }
 
     "return Draught potion when given 'Niffler's Fancy' and 'Nightshade'" in {
 
-      HarryPotter.potion("Niffler's Fancy, Nightshade") mustEqual Some(new DraughtPotion)
+      Cauldron.brew(Ingredient("Niffler's Fancy"), Ingredient("Nightshade")) mustEqual Some(new DraughtPotion)
     }
 
   }
