@@ -6,15 +6,15 @@
     </properties>
                      <testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return None when no ingredients are given" time="0.008">
                                                  
-                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return None when one ingredient is given" time="0.001">
+                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return None when one ingredient is given" time="0.0">
                                                  
                                                </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return PolyJuice potion when given 'Aconite' and 'Adder's Fork'" time="0.001">
                                                  
-                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return PolyJuice potion when given 'Adder's Fork' and 'Aconite'" time="0.0">
+                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return PolyJuice potion when given 'Adder's Fork' and 'Aconite'" time="0.001">
                                                  
-                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return Draught potion when given 'Niffler's Fancy' and 'Nightshade'" time="0.0">
+                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return Draught potion when given 'Niffler's Fancy' and 'Nightshade'" time="0.001">
                                                  
-                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return Draught potion when given 'Nightshade' and 'Niffler's Fancy'" time="0.001">
+                                               </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must return Draught potion when given 'Nightshade' and 'Niffler's Fancy'" time="0.0">
                                                  
                                                </testcase><testcase classname="HarryPotterSpec.HarryPotterTest" name="HarryPotter must Return None when given 'Adder's Fork' 'Adder's Fork' 'Aconite'" time="0.0">
                                                  
