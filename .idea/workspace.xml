@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f52b527-0e81-4e36-a9a9-9b6073231cdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/HarryPotter/Cauldron$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/HarryPotter/Cauldron$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/HarryPotter/HarryPotter$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/HarryPotter/HarryPotter$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/HarryPotter/HarryPotter.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/HarryPotter/HarryPotter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/HarryPotter/HarryPotter.scala" afterPath="$PROJECT_DIR$/src/main/scala/HarryPotter/HarryPotter.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/HarryPotterSpec/HarryPotterTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/HarryPotterSpec/HarryPotterTest.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/HarryPotterSpec.HarryPotterTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/HarryPotterSpec.HarryPotterTest.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,8 +51,8 @@
       <file leaf-file-name="HarryPotter.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/HarryPotter/HarryPotter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="810">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -647,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/HarryPotter/HarryPotter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="810">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>

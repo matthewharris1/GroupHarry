@@ -11,8 +11,6 @@ case class DraughtPotion() extends Potion
 
 case class Ingredient(name : String)
 
-
-
 object HarryPotter extends App {
 
   Cauldron.brew(Ingredient("Aconite"), Ingredient("Adder's Fork"))
