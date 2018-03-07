@@ -1,52 +1,52 @@
 [0m[[0mdebug[0m] [0m[naha] The HarryPotter.DraughtPotion source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	<init>.[0m
+[0m[[0mdebug[0m] [0m[naha] 	Potion, notify, unapply, brew, name, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, toString, args, !=, getClass, copy$default$1, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode.[0m
 [0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
 [0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.DraughtPotion: Set(); now invalidating by inheritance (internally).[0m
 [0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
 [0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.DraughtPotion.[0m
-[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(<init>)[0m
-[0m[[0mdebug[0m] [0m[naha] The HarryPotter.Ingredient$ source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	<init>.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Ingredient$: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Ingredient$.[0m
-[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(<init>)[0m
-[0m[[0mdebug[0m] [0m[naha] The HarryPotter.Ingredient source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	<init>.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Ingredient: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Ingredient.[0m
-[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(<init>)[0m
-[0m[[0mdebug[0m] [0m[naha] The HarryPotter.Potion source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	<init>.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Potion: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Potion.[0m
-[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(<init>)[0m
-[0m[[0mdebug[0m] [0m[naha] The HarryPotter.PolyJuicePotion source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	<init>.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.PolyJuicePotion: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.PolyJuicePotion.[0m
-[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(<init>)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(Potion, brew, PolyJuicePotion, HarryPotter, Ingredient, <init>, Cauldron)[0m
 [0m[[0mdebug[0m] [0m[naha] The HarryPotter.Cauldron$ source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	<init>.[0m
+[0m[[0mdebug[0m] [0m[naha] 	Potion, notify, unapply, name, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, copy$default$1, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode.[0m
 [0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
 [0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Cauldron$: Set(); now invalidating by inheritance (internally).[0m
 [0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
 [0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Cauldron$.[0m
-[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(<init>)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(Potion, PolyJuicePotion, HarryPotter, Ingredient, <init>, DraughtPotion)[0m
+[0m[[0mdebug[0m] [0m[naha] The HarryPotter.PolyJuicePotion source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Potion, notify, unapply, brew, name, wait, $asInstanceOf, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, copy$default$1, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.PolyJuicePotion: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.PolyJuicePotion.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(Potion, brew, HarryPotter, Ingredient, <init>, DraughtPotion, Cauldron)[0m
+[0m[[0mdebug[0m] [0m[naha] The HarryPotter.Potion source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, brew, name, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, copy$default$1, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Potion: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Potion.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(brew, PolyJuicePotion, HarryPotter, Ingredient, <init>, DraughtPotion, Cauldron)[0m
+[0m[[0mdebug[0m] [0m[naha] The HarryPotter.Ingredient source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Potion, notify, unapply, brew, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Ingredient: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Ingredient.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(Potion, brew, PolyJuicePotion, HarryPotter, <init>, DraughtPotion, Cauldron)[0m
+[0m[[0mdebug[0m] [0m[naha] The HarryPotter.Ingredient$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Potion, notify, unapply, brew, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) HarryPotter.Ingredient$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) HarryPotter.Ingredient$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/digital032676/Harry/GroupHarry/src/test/scala/HarryPotterSpec/HarryPotterTest.scala: Set(Potion, brew, PolyJuicePotion, HarryPotter, <init>, DraughtPotion, Cauldron)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(HarryPotter.DraughtPotion,ModifiedNames(regularNames = <init>, implicitNames = )), NamesChange(HarryPotter.Ingredient$,ModifiedNames(regularNames = <init>, implicitNames = )), NamesChange(HarryPotter.Ingredient,ModifiedNames(regularNames = <init>, implicitNames = )), NamesChange(HarryPotter.Potion,ModifiedNames(regularNames = <init>, implicitNames = )), NamesChange(HarryPotter.PolyJuicePotion,ModifiedNames(regularNames = <init>, implicitNames = )), NamesChange(HarryPotter.Cauldron$,ModifiedNames(regularNames = <init>, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(HarryPotter.DraughtPotion,ModifiedNames(regularNames = Potion, notify, unapply, brew, name, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, toString, args, !=, getClass, copy$default$1, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(HarryPotter.Cauldron$,ModifiedNames(regularNames = Potion, notify, unapply, name, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, copy$default$1, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(HarryPotter.PolyJuicePotion,ModifiedNames(regularNames = Potion, notify, unapply, brew, name, wait, $asInstanceOf, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, copy$default$1, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(HarryPotter.Potion,ModifiedNames(regularNames = notify, unapply, brew, name, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, Ingredient, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, copy$default$1, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(HarryPotter.Ingredient,ModifiedNames(regularNames = Potion, notify, unapply, brew, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(HarryPotter.Ingredient$,ModifiedNames(regularNames = Potion, notify, unapply, brew, wait, $asInstanceOf, PolyJuicePotion, productArity, equals, asInstanceOf, executionStart, synchronized, HarryPotter, $isInstanceOf, canEqual, main, productPrefix, notifyAll, isInstanceOf, <init>, apply, ==, clone, ingredients, $init$, copy, DraughtPotion, toString, args, !=, getClass, Cauldron, ne, eq, productIterator, delayedInit, ##, finalize, productElement, hashCode, implicitNames = )))[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
@@ -60,13 +60,13 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/digital032676/Harry/GroupHarry/target/scala-2.12/test-classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.4[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 62cfc538, interfacing (CompilerInterface) with Scala compiler version 2.12.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 33a91079, interfacing (CompilerInterface) with Scala compiler version 2.12.4[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/digital032676/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/digital032676/Harry/GroupHarry/target/scala-2.12/test-classes:/home/digital032676/Harry/GroupHarry/target/scala-2.12/classes:/home/digital032676/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.3.jar:/home/digital032676/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.3.jar:/home/digital032676/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar:/home/digital032676/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.5.jar:/home/digital032676/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 0.441721294 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.660503824 s[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
