@@ -1,5 +1,11 @@
 [0m[[0minfo[0m] [0m[32mHarryPotterTest:[0m[0m
 [0m[[0minfo[0m] [0m[32mHarryPotter[0m[0m
-[0m[[0minfo[0m] [0m[32m- must return error message when no ingredients are given[0m[0m
-[0m[[0minfo[0m] [0m[32m- must return Polyjuice potion when given 'Aconite' and 'Adder's Fork'[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return None when no ingredients are given[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return None when one ingredient is given[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return PolyJuice potion when given 'Aconite' and 'Adder's Fork'[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return PolyJuice potion when given 'Adder's Fork' and 'Aconite'[0m[0m
 [0m[[0minfo[0m] [0m[32m- must return Draught potion when given 'Niffler's Fancy' and 'Nightshade'[0m[0m
+[0m[[0minfo[0m] [0m[32m- must return Draught potion when given 'Nightshade' and 'Niffler's Fancy'[0m[0m
+[0m[[0minfo[0m] [0m[32m- must Return None when given 'Adder's Fork' 'Adder's Fork' 'Aconite'[0m[0m
+[0m[[0minfo[0m] [0m[32m- must Return None when given incorrect ingredients[0m[0m
+[0m[[0minfo[0m] [0m[32m- must Return None when given one ingredient from each potion[0m[0m
