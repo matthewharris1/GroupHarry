@@ -7,7 +7,15 @@ trait Potion
 
 case class PolyJuicePotion() extends Potion
 
+object PolyJuicePotion {
+  val ingredients = Set(Ingredient("Adder's Fork"), Ingredient("Aconite"))
+}
+
 case class DraughtPotion() extends Potion
+
+object DraughtPotion {
+  val ingredients = Set(Ingredient("Niffler's Fancy"), Ingredient("Nightshade"))
+}
 
 case class Ingredient(name : String)
 
@@ -23,8 +31,8 @@ object Cauldron {
     val ingSet = ing.toSet
 
     ing.toList match {
-      case _@List(_,_) if ingSet == Set(Ingredient("Adder's Fork"), Ingredient("Aconite")) => Some(new PolyJuicePotion)
-      case _@List(_,_) if ingSet == Set(Ingredient("Niffler's Fancy"), Ingredient("Nightshade")) => Some(new DraughtPotion)
+      case _@List(_,_) if ingSet == PolyJuicePotion.ingredients => Some(new PolyJuicePotion)
+      case _@List(_,_) if ingSet == DraughtPotion.ingredients => Some(new DraughtPotion)
       case _ => None
     }
   }
